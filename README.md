@@ -22,7 +22,8 @@ Please review the following background literature included in the [`paper/`](pap
 | Title & Authors | Topic / Relevance | Access Link |
 |---|---|---|
 | **Harnessing Neural-Ordinary Differential Equations for Pharmacometrics: Dynamical Modelling in the Age of AI** <br> *James Lu & Isaac Yeoh (2026)* | Companion tutorial paper covering Neural-ODEs and dynamical systems modeling in PMx. | [📄 View PDF](paper/Neural-ODE_Pharmacometrics_Tutorial.pdf) |
-| **[Insert Second Paper Title Here]** <br> *[Authors (Year)]* | [Brief 1-sentence description of how this paper connects to the tutorial] | [📄 View PDF](paper/Neural-ODE_Pharmacometrics_Tutorial.pdf) |
+| **Quantitative Systems Pharmacology Modeling Amid the
+Rise of Agentic AI** <br> *James Lu & Rajat Desikan (2026)]* | Perspective on the future of QSP modeling | [📄 View PDF](paper/CPT_PSP_2026_LuDesikan.pdf) |
 
 
 

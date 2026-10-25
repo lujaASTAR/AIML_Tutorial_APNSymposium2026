@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this tutorial code or material, please cite our companion paper below."
+title: "AI/ML in Pharmacometrics: Tutorial Repository"
+type: software
+authors:
+  - family-names: "Lu"
+    given-names: "James"
+    orcid: "https://orcid.org/0000-0002-9687-5607"
+    affiliation: "Bioinformatics Institute (BII), Agency for Science, Technology and Research (A*STAR)"
+repository-code: "https://github.com/lujaASTAR/AIML_Tutorial_APNSymposium2026"
+license: MIT
+
+# CRITICAL: This tells GitHub's "Cite this repository" button to cite your PAPER instead of just the repo URL!
+preferred-citation:
+  type: article
+  title: "Harnessing Neural-Ordinary Differential Equations for Pharmacometrics: Dynamical Modelling in the Age of AI"
+  authors:
+    - family-names: "Lu"
+      given-names: "James"
+      orcid: "https://orcid.org/0000-0002-9687-5607"
+  journal: "arXiv preprint" # Change to "CPT: Pharmacometrics & Systems Pharmacology" once published
+  year: 2026
+  url: "https://github.com/lujaASTAR/AIML_Tutorial_APNSymposium2026/paper/Neural-ODE_Pharmacometrics_Tutorial.pdf"
+  # doi: "10.1002/psp4.XXXXX" # Uncomment once you have a Zenodo, arXiv, or Journal DOI

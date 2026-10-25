@@ -1,2 +1,2 @@
-# AIML_Tutorial_APNSymposium2026
+# AI/M Tutorial: APN Symposium 2026
 Tutorial material 

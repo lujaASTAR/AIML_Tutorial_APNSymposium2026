@@ -3,9 +3,6 @@
 # AI/ML Tutorial: APN Symposium 2026
 Tutorial material 
 ---
-
----
-
 ## 🤖 Agentic AI Platform: Biomni Lab (by Phylo) Setup & Sign-Up
 
 In this tutorial, we will use **[Biomni Lab](https://phylo.bio/)**, an Integrated Biology Environment developed by **[Phylo](https://phylo.bio/)**. Biomni serves as a collaborative, general-purpose biomedical AI agent that integrates scientific reasoning with reproducible code execution across curated databases, software packages, and specialized computational tools—enabling rapid modeling, multi-omics analysis, and literature synthesis for pharmacometrics and translational research.
@@ -16,7 +13,7 @@ To participate in the hands-on Agentic AI exercises, please create your account 
 |---|---|---|
 | **1. Visit Phylo** | Go to **[https://phylo.bio/](https://phylo.bio/)** | Official portal for Phylo and Biomni Lab. |
 | **2. Launch & Sign Up** | Click **"Try Biomni Lab"** (or **"Biomni Lab"** in the top navigation bar) | Register using your **academic or institutional email address**. |
-| **3. Verify Access Early** | Log in and confirm your workspace is active at least **48 hours before the session** | Ensures your account is ready before the live hands-on exercises begin. |
+| **3. Verify Access Early** | Log in and confirm your workspace is active | Ensures your account is ready before the live hands-on exercises begin. |
 
 
 

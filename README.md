@@ -1,11 +1,11 @@
 ![AI/ML in Pharmacometrics Header](assets/AIML_PMx_Future_smaller.png)
 
-# AI/ML Tutorial: APN Symposium 2026
+# AI/ML in PMx Workshop: APN Symposium 2026
 
 ---
 ## 🤖 Agentic AI Platform: Biomni Lab (by Phylo) Setup & Sign-Up
 
-In this tutorial, we will use **[Biomni Lab](https://phylo.bio/)**, an Integrated Biology Environment developed by **[Phylo](https://phylo.bio/)**. Biomni serves as a collaborative, general-purpose biomedical AI agent that integrates scientific reasoning with reproducible code execution across curated databases, software packages, and specialized computational tools—enabling rapid modeling, multi-omics analysis, and literature synthesis for pharmacometrics and translational research.
+In this workshop, we will use **[Biomni Lab](https://phylo.bio/)**, an Integrated Biology Environment developed by **[Phylo](https://phylo.bio/)**. Biomni serves as a collaborative, general-purpose biomedical AI agent that integrates scientific reasoning with reproducible code execution across curated databases, software packages, and specialized computational tools—enabling rapid modeling, multi-omics analysis, and literature synthesis for pharmacometrics and translational research.
 
 To participate in the hands-on Agentic AI exercises, please create your account **prior to the tutorial**:
 
@@ -15,7 +15,7 @@ To participate in the hands-on Agentic AI exercises, please create your account 
 | **2. Launch & Sign Up** | Click **"Try Biomni Lab"** (or **"Biomni Lab"** in the top navigation bar) | Register using your **academic or institutional email address**. |
 | **3. Verify Access Early** | Log in and confirm your workspace is active | Ensures your account is ready before the live hands-on exercises begin. |
 
-## 📚 Tutorial Companion Paper
+## 📚 Tutorial Companion Papers
 
 Please review the following background literature included in the [`paper/`](paper/) directory:
 
@@ -47,7 +47,7 @@ For the hands-on coding exercises in R and Julia, we will leverage the open-sour
 
 ## 📖 Citation
 
-If you find this tutorial or code useful in your research or teaching, please cite our companion tutorial paper:
+If you find this workshop useful in your research or teaching, please cite our companion tutorial paper:
 
 > **James Lu and Isaac Yeoh (2026).** *Harnessing Neural-Ordinary Differential Equations for Pharmacometrics: Dynamical Modelling in the Age of AI.* [📄 Read the Paper (PDF)](./paper/Neural-ODE_Pharmacometrics_Tutorial.pdf)
 

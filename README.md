@@ -4,16 +4,22 @@
 Tutorial material 
 ---
 
-## 🤖 Agentic AI Platform: Biomni Setup & Sign-Up
+---
 
-In this tutorial, we will use **[Biomni](https://biomni.stanford.edu/)**, an open-source, general-purpose biomedical AI agent developed by Stanford University's SNAP Lab. Biomni integrates LLM reasoning with retrieval-augmented planning and code-based execution across 150+ specialized tools, 59 databases, and 105 software packages—including pharmacokinetic modeling, ADMET prediction, and drug-target interaction workflows.
+## 🤖 Agentic AI Platform: Biomni Lab (by Phylo) Setup & Sign-Up
 
-To participate in the hands-on Agentic AI exercises, please set up your access using one the info below:
+In this tutorial, we will use **[Biomni Lab](https://phylo.bio/)**, an Integrated Biology Environment developed by **[Phylo](https://phylo.bio/)**. Biomni serves as a collaborative, general-purpose biomedical AI agent that integrates scientific reasoning with reproducible code execution across curated databases, software packages, and specialized computational tools—enabling rapid modeling, multi-omics analysis, and literature synthesis for pharmacometrics and translational research.
 
-### No-Code Web Interface 
-1. **Visit the Portal:** Go to the official Biomni web platform at **[biomni.stanford.edu](https://biomni.stanford.edu/)**.
-2. **Request Access / Sign Up:** Click **"Get Access"** (or **"Try it now!"**) in the top navigation bar to register with your institutional or academic email address.
-3. **Approval Buffer:** Please complete your registration at least **48–72 hours before the tutorial** in case waitlist or institutional verification is required.
+To participate in the hands-on Agentic AI exercises, please create your account **prior to the tutorial**:
+
+| Step | Action | Details |
+|---|---|---|
+| **1. Visit Phylo** | Go to **[https://phylo.bio/](https://phylo.bio/)** | Official portal for Phylo and Biomni Lab. |
+| **2. Launch & Sign Up** | Click **"Try Biomni Lab"** (or **"Biomni Lab"** in the top navigation bar) | Register using your **academic or institutional email address**. |
+| **3. Verify Access Early** | Log in and confirm your workspace is active at least **48 hours before the session** | Ensures your account is ready before the live hands-on exercises begin. |
+
+
+
 
 
 

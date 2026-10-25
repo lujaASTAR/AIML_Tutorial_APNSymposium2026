@@ -1,3 +1,5 @@
+![AI/ML in Pharmacometrics Header](assets/AIML_PMx_Future_smaller.png)
+
 # AI/ML Tutorial: APN Symposium 2026
 Tutorial material 
 

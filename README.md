@@ -17,7 +17,7 @@ To participate in the hands-on Agentic AI exercises, please create your account 
 
 ## 📚 Tutorial Companion Paper
 
-Please review the following background literature included in the [`paper/`](paper/) directory prior to or during the tutorial:
+Please review the following background literature included in the [`paper/`](paper/) directory:
 
 | Title & Authors | Topic / Relevance | Access Link |
 |---|---|---|

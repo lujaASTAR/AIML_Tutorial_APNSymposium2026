@@ -15,6 +15,14 @@ To participate in the hands-on Agentic AI exercises, please create your account 
 | **2. Launch & Sign Up** | Click **"Try Biomni Lab"** (or **"Biomni Lab"** in the top navigation bar) | Register using your **academic or institutional email address**. |
 | **3. Verify Access Early** | Log in and confirm your workspace is active | Ensures your account is ready before the live hands-on exercises begin. |
 
+## 📚 Tutorial Companion Paper
+
+Please review the following background literature included in the [`paper/`](paper/) directory prior to or during the tutorial:
+
+| Title & Authors | Topic / Relevance | Access Link |
+|---|---|---|
+| **Harnessing Neural-Ordinary Differential Equations for Pharmacometrics: Dynamical Modelling in the Age of AI** <br> *James Lu & Isaac Yeoh (2026)* | Companion tutorial paper covering Neural-ODEs and dynamical systems modeling in PMx. | [📄 View PDF](paper/Neural-ODE_Pharmacometrics_Tutorial.pdf) |
+| **[Insert Second Paper Title Here]** <br> *[Authors (Year)]* | [Brief 1-sentence description of how this paper connects to the tutorial] | [📄 View PDF](paper/Neural-ODE_Pharmacometrics_Tutorial.pdf) |
 
 
 

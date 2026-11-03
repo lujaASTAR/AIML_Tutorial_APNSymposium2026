@@ -52,11 +52,13 @@ If you find this workshop useful in your research or teaching, please cite our c
 > **James Lu and Isaac Yeoh (2026).** *Harnessing Neural-Ordinary Differential Equations for Pharmacometrics: Dynamical Modelling in the Age of AI.* [📄 Read the Paper (PDF)](./paper/Neural-ODE_Pharmacometrics_Tutorial.pdf)
 
 ```bibtex
-@article{jameslu2026_node_pmx,
-  title   = {Harnessing Neural-Ordinary Differential Equations for Pharmacometrics: Dynamical
-Modelling in the Age of AI},
-  author  = {Lu, James and Yeoh, Isaac},
-  journal = {arXiv preprint},
-  year    = {2026},
-  url     = {https://github.com/lujaASTAR/AIML_Tutorial_APNSymposium2026/blob/main/paper/Neural-ODE_Pharmacometrics_Tutorial.pdf}
+@misc{Lu2026NeuralODETutorial,
+  author       = {Lu, James},
+  title        = {{Neural-ODE in Pharmacometrics: A Tutorial}},
+  year         = {2026},
+  howpublished = {Asian Pharmacometrics Network (APN) Symposium 2026 AI/ML Tutorial, GitHub Repository},
+  institution  = {Bioinformatics Institute (BII), Agency for Science, Technology and Research (A*STAR)},
+  note         = {Preprint / Tutorial manuscript deposited at GitHub},
+  url          = {https://github.com/lujaASTAR/AIML_Tutorial_APNSymposium2026/blob/main/paper/Neural-ODE_Pharmacometrics_Tutorial.pdf}
+}
 ```
